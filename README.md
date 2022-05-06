@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @joseph-carino
+- 🖥 Development Manager - SFN @ Shopify
+- 🌱 I’m currently learning Ruby on Rails, React
+- 📫 joseph.carino@shopify.com
